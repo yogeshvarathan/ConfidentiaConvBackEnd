@@ -11,6 +11,9 @@ class UserProfileServiceApplicationTests {
 	}
 
 	@Test
-	void validateUserProfie()
+	void validateUserProfie(){
+		if(2 = 1+1)
+			System.out.println("Looks Good");
+	}
 
 }
