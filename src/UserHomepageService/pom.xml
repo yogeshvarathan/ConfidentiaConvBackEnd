@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.igic.confidentialconv</groupId>
-	<artifactId>UserProfileService</artifactId>
+	<artifactId>UserHomepageService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>UserProfileService</name>
-	<description>Service for UserProfileService</description>
+	<name>UserHomepageService</name>
+	<description>Service for UserHomepage</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
